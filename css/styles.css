@@ -1,0 +1,76 @@
+.button {
+    width: 500px;
+    height: 100px;
+    margin:auto;
+    display:block;
+    font-size: 50px;
+}
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */
+.jumbotron {
+    margin-bottom: 0;
+    height: 200px;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+p.text-color {
+    margin-top: 15px;
+    color: #e4e4e4;
+}
+
+.center {
+    margin: auto;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: rgb(179, 179, 179);
+    color: rgb(0, 0, 0);
+    border: solid #000000 1px;
+    text-align: center;
+}
+
+td {
+    vertical-align: top;
+}
+
+tr {
+    background-color: rgb(241, 241, 241);
+}
+
+.bottom-line {
+    border-bottom: solid #000 1px;
+}
+
+.data {
+    border-left: solid #000000 1px;
+    border-right: solid #000000 1px;
+}
+
+.data2 {
+    border-right: solid #000000 1px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
