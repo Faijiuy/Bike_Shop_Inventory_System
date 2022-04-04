@@ -1,2 +1,3 @@
-# 2-2020_Senior_Project_1
-2-2020 Senior Project 1 Code Repository
+# Bike Shop Inventory System
+
+Website as the database to manage inventory system at real place bike shop. Tracking the amount of inventory. Able to scan & detect the barcode on real product with handle barcode scanner.
